@@ -7,6 +7,7 @@ Do a proper cleaning E.g
 #1: Gender Distribution Analysis
 1. Create a bar chart:
     - Axis: Region/Department
+    - https://github.com/PERO235/DSA-Data-Analysis-Assignment/blob/main/BAR%20CHART%20SHOWING%20GENDER%20DISTRIBUTION%20AND%20%20DEPARTMENT.pbix
     - Value: Count of Employees by Gender
   
     - https://github.com/PERO235/DSA-Data-Analysis-Assignment/commit/161bb292d4b7b48ecec9675090bf4ec0b39c5f71#diff-6e5d3e2dd374295dcf00a3e151200bb124a5742e26c18de3ae5353aa79e17b6e
