@@ -2,6 +2,7 @@ Import the employee data into Power BI.
 Do a proper cleaning E.g
 1. Remove employees without salaries and departments indicated as "NULL".
 2. Assign a generic gender status to employees who refused to disclose their gender.
+   
 
 #1: Gender Distribution Analysis
 1. Create a bar chart:
