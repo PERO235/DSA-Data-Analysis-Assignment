@@ -8,6 +8,8 @@ Do a proper cleaning E.g
 1. Create a bar chart:
     - Axis: Region/Department
     - Value: Count of Employees by Gender
+  
+    - https://github.com/PERO235/DSA-Data-Analysis-Assignment/commit/161bb292d4b7b48ecec9675090bf4ec0b39c5f71#diff-6e5d3e2dd374295dcf00a3e151200bb124a5742e26c18de3ae5353aa79e17b6e
 2. Use a slicer to filter by region/department.
 3. Visualize the overall gender distribution using a pie chart.
 
