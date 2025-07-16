@@ -4,6 +4,7 @@ Do a proper cleaning E.g
 2. Assign a generic gender status to employees who refused to disclose their gender.
    
 https://github.com/PERO235/DSA-Data-Analysis-Assignment/blob/main/CLEAN%20FILE%20NOW.pbix
+
 #1: Gender Distribution Analysis
 1. Create a bar chart:
     - Axis: Region/Department
