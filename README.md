@@ -49,4 +49,29 @@ payments and asked you to:
 bonus)
 ● Total amount to be paid out per region and company-wide
 
+# Recommendations
+##Short-Term (0–12 months)
+Implement unconscious bias training.
 
+Review and revise all HR policies through a gender lens.
+
+Ensure transparent promotion and recruitment processes.
+
+## Medium-Term (1–2 years)
+Set gender parity goals for all levels of the organization.
+
+Launch sponsorship and mentorship programs for women and non-binary employees.
+
+Introduce gender-disaggregated KPIs in performance reviews.
+
+##Long-Term (3–5 years)
+Aim for gender-balanced leadership (50/50 target).
+
+Cultivate an inclusive culture through continuous feedback loops.
+
+Conduct biennial gender audits and integrate results into strategy.
+
+## Conclusion
+Palmora Group demonstrates a strong foundation for gender equity but requires a more strategic, data-driven approach to fully realize inclusivity goals. By addressing gaps in leadership, pay, policy, and culture, Palmora can establish itself as a leader in gender-responsive HR practices.
+
+Would you like this turned into a visual Po
