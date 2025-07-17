@@ -48,3 +48,5 @@ payments and asked you to:
 ● Calculate the total amount to be paid to individual employees (salary inclusive of
 bonus)
 ● Total amount to be paid out per region and company-wide
+
+
