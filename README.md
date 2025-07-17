@@ -87,3 +87,7 @@ Bonus Payments
 Measures
 - `Bonus Amount = IF('Employee'[Rating] > 3, 'Employee'[Salary] * 0.1, 0)`
 - `Total Amount to be Paid = 'Employee'[Salary] + 'Bonus Amount'`
+
+# Data Sources
+The primary source of data is  an open-source file that can be easily downloaded from an open-source online platform.
+
