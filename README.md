@@ -1,3 +1,14 @@
+# Project Overview
+This is my first project as astudent of DSA incubator hub,it is a  Gender Equality Audit for Palmoria Group
+Client: Palmoria Group
+Location: Nigeria (Operations across 3 regions)
+Project Lead: Mr. Yunus Shofoluwe (CHRO)
+HR Analytics Consultant: [P.A (myself)]
+Based on the data anlysed ,key findings were made and recommendations were given.
+
+
+# Steps :
+Various steps were taken  to analyse this data and include the following
 Import the employee data into Power BI.
 Do a proper cleaning E.g
 1. Remove employees without salaries and departments indicated as "NULL".
