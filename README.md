@@ -48,6 +48,7 @@ payments and asked you to:
 ● Calculate the total amount to be paid to individual employees (salary inclusive of
 bonus)
 ● Total amount to be paid out per region and company-wide
+# Analysis
 
 # Recommendations
 ##Short-Term (0–12 months)
@@ -74,4 +75,4 @@ Conduct biennial gender audits and integrate results into strategy.
 ## Conclusion
 Palmora Group demonstrates a strong foundation for gender equity but requires a more strategic, data-driven approach to fully realize inclusivity goals. By addressing gaps in leadership, pay, policy, and culture, Palmora can establish itself as a leader in gender-responsive HR practices.
 
-Would you like this turned into a visual Po
+
