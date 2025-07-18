@@ -51,8 +51,8 @@ bonus)
 #   Analysis
 Gender Pay Gap Analysis (Overall)
 Average Salary (Female): $75,028.76
-
-Average Salary (Male): $76,708.36
+Accounting department  has the lowest number of female
+Average Salary (Male): c76,708.36
 
 There is a gender pay gap of approximately $1,679.60, with males earning more on average.
 In addition Palmoral Group does not meet up  with the minimum pay of employee as per regulation.
