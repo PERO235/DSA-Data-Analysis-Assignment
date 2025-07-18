@@ -84,4 +84,5 @@ Conduct biennial gender audits and integrate results into strategy.
 ## Conclusion
 Palmora Group demonstrates a strong foundation for gender equity but requires a more strategic, data-driven approach to fully realize inclusivity goals. By addressing gaps in leadership, pay, policy, and culture, Palmora can establish itself as a leader in gender-responsive HR practices.
 
+Screen shots of my data cleaning process
 
